@@ -9,8 +9,12 @@ W3CSS
 CSS
 BOOSTRAP
 PHP
+
+ 
   -- config google smtp.gmail.com
+  
   --phpmailer OR
+  
   --normal mail setup
 
 
