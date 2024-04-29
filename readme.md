@@ -5,9 +5,13 @@ for users to Authenticate before performing any actions on the platform
 
 ### Language AND Libraries
 HTML
+
 W3CSS
+
 CSS
+
 BOOSTRAP
+
 PHP
 
  
@@ -21,14 +25,19 @@ PHP
 
 ###
 1.registraton
+
 2.login
-3.email verification on registration
+
+3.email verification on 
+
 4.re-send Email verification
+
 5.verified email can only login
+
 6.users/profile  Dashboard
-  --update profile details
-  --update/change password
-  --forget password
+    --update profile details
+    --update/change password
+    --forget password
   
 
 
