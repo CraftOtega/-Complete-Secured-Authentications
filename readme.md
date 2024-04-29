@@ -35,9 +35,10 @@ PHP
 5.verified email can only login
 
 6.users/profile  Dashboard
-    --update profile details
-    --update/change password
-    --forget password
+
+     --update profile details
+     --update/change password
+     --forget password
   
 
 
